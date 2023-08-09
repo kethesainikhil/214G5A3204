@@ -1,5 +1,5 @@
 # 214G5A3204
-<h1>first test - built an microservice and connected to the front end using react and redux toolkit, connected using cors(frontend + backend)</h1>
+<h2>first test - built an microservice and connected to the front end using react and redux toolkit, connected using cors(frontend + backend)</h2>
 <hr>
 <h2>
   second test - registration part done and also got credentials
