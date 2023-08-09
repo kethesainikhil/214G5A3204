@@ -12,9 +12,14 @@
 
 ![Screenshot (98)](https://github.com/kethesainikhil/214G5A3204/assets/70809367/66952588-9ab8-4527-aac9-b3530d450004)
 
-<h4>actual photo</h4>
+<h4>actual photos of output</h4>
+<p>unique numbers + sorting + combination of 2-3 url in query parameter</p>
+
+![Screenshot (131)](https://github.com/kethesainikhil/214G5A3204/assets/70809367/fc997c1d-5def-4d65-b9f2-0eddde8cffb1)
 
 
-<h3>sorting also done</h3>
+
+![image](https://github.com/kethesainikhil/214G5A3204/assets/70809367/08fd58e2-11e2-4f62-8718-c8b7c550a776)
+
 
 
