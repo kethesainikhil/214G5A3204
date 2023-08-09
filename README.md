@@ -10,16 +10,16 @@
 
 <h3>postMan screenshot</h3>
 
+
 ![Screenshot (98)](https://github.com/kethesainikhil/214G5A3204/assets/70809367/66952588-9ab8-4527-aac9-b3530d450004)
 
 <h4>actual photos of output</h4>
 <p>unique numbers + sorting + combination of 2-3 url in query parameter</p>
 
 
-![image](https://github.com/kethesainikhil/214G5A3204/assets/70809367/020a412e-980b-40c1-b0ec-1927c1cbf4ee)
+<img src="https://github.com/kethesainikhil/214G5A3204/assets/70809367/020a412e-980b-40c1-b0ec-1927c1cbf4ee"/>
 
 
-![Screenshot (131)](https://github.com/kethesainikhil/214G5A3204/assets/70809367/fc997c1d-5def-4d65-b9f2-0eddde8cffb1)
 
 
 
