@@ -1,8 +1,13 @@
 const express = require('express');
 const axios = require('axios');
+// Use the cors middleware to handle CORS
+const cors = require('cors');
+
+
 
 const app = express();
 const port = 8000;
+app.use(cors());
 
 app.get('/numbers', async (req, res) => {
   const combinedUrls = req.query.url;
@@ -51,7 +56,7 @@ else{
     try {
         const response = await axios.get(urlArray);
         const responseData = response.data;
-        res.json(responseData)
+        res.json(responseData.numbers)
     } catch (error) {
         console.error(error.message);
       }
