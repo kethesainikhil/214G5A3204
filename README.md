@@ -14,9 +14,7 @@
 
 <h4>actual photo</h4>
 
-![Screenshot (126)](https://github.com/kethesainikhil/214G5A3204/assets/70809367/fb05f36d-f870-4ebc-80a9-e7f8ed2b7c39)
 
 <h3>sorting also done</h3>
 
-![Screenshot (128)](https://github.com/kethesainikhil/214G5A3204/assets/70809367/2de11cbd-85b7-450d-8a2f-f7fce193de4d)
 
